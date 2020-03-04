@@ -1,2 +1,1 @@
-# sc.-jottings
-jottings
+# Jottings
